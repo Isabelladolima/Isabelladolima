@@ -9,7 +9,7 @@ Suporte Técnico | Help Desk | Infraestrutura de TI | Redes de Computadores
 - Técnica em Desenvolvimento de Sistemas 
 - Experiência em Suporte Técnico e Help Desk
 - Redes e Infraestrutura
-- Conhecimentos em Windows e Ubuntu
+- Conhecimentos básicos em Windows e Ubuntu
 - Manutenção preventiva e corretiva de computadores
 
 ---
