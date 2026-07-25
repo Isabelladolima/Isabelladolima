@@ -1,12 +1,12 @@
 # Olá! Eu sou Isabella Lima 👋
 
-💻 Técnica em Desenvolvimento de Sistemas (IFAL)
+💻 Técnica em Desenvolvimento de Sistemas 
 
 Suporte Técnico | Help Desk | Infraestrutura de TI | Redes de Computadores
 
 ## Sobre mim
 
-- Técnica em Desenvolvimento de Sistemas - IFAL
+- Técnica em Desenvolvimento de Sistemas 
 - Experiência em Suporte Técnico e Help Desk
 - Redes e Infraestrutura
 - Conhecimentos em Windows e Ubuntu
