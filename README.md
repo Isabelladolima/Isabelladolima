@@ -1,4 +1,4 @@
-# Olá, eu sou a Isabella 👋
+# Olá, eu sou a Isabella Lima 👋
 
 💻 Técnica em Desenvolvimento de Sistemas
 Suporte Técnico | Help Desk | Infraestrutura de TI | Redes de Computadores
@@ -54,7 +54,6 @@ aqui embaixo, sem precisar editar este README.
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Isabelladolima&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
 
 ## Contato
 
