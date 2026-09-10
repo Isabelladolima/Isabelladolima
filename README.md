@@ -33,9 +33,9 @@ Técnica em Desenvolvimento de Sistemas com foco em Suporte Técnico, Help Desk 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
-🚧 **[Vingadores: Doomsday API](https://github.com/Isabelladolima/vingadores-doomsday-api)** — em andamento
+**[Vingadores: Doomsday API](https://github.com/Isabelladolima/vingadores-doomsday-api)** — em andamento
 API REST de portfólio inspirada no filme "Vingadores: Doomsday", com CRUD completo sobre a entidade Filme. Documentação interativa via Swagger UI.
 
 **Stack:** Python · FastAPI · SQLAlchemy · SQLite · Pydantic
@@ -48,7 +48,7 @@ Dica: fixe (pin) seus outros repositórios no perfil do GitHub
 aqui embaixo, sem precisar editar este README.
 -->
 
-## 📊 GitHub Status
+## GitHub Status
 
 ![](https://github-readme-stats.shion.dev/api?username=Isabelladolima&theme=default&hide_border=false&include_all_commits=true&count_private=false)
 
