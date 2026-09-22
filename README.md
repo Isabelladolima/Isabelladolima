@@ -5,27 +5,27 @@
 <br/>
 
 <a href="https://github.com/Isabelladolima">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=T%C3%A9cnica+em+Desenvolvimento+de+Sistemas;Suporte+T%C3%A9cnico+%26+Help+Desk;Infraestrutura+de+TI+%26+Redes;Sempre+aprendendo+algo+novo+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=T%C3%A9cnica+em+Desenvolvimento+de+Sistemas;Suporte+T%C3%A9cnico+%26+Help+Desk;Infraestrutura+de+TI+%26+Redes;Sempre+aprendendo+algo+novo" />
 </a>
 
 </div>
 
 <br/>
 
-## 💗 Sobre mim
+## Sobre mim
 
 Técnica em Desenvolvimento de Sistemas com foco em **Suporte Técnico, Help Desk e Infraestrutura de TI**.
 Gosto de resolver problemas, aprender novas tecnologias e ajudar pessoas a usarem melhor os recursos digitais.
 
-- 💻 **Estagiária de TI — IFAL**
+- **Estagiária de TI — IFAL**
   Atendimento e suporte aos usuários · Manutenção de computadores · Instalação e configuração de softwares · Apoio em infraestrutura de TI · Suporte em redes e equipamentos
 
-- 🌱 **Monitora — Projeto Viva Mais Cidadania Digital**
+- **Monitora — Projeto Viva Mais Cidadania Digital**
   Ensino de tecnologias digitais para idosos · Apoio no uso de smartphones e aplicativos · Desenvolvimento de habilidades de comunicação e didática
 
 <br/>
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <div align="center">
 
@@ -54,26 +54,19 @@ Gosto de resolver problemas, aprender novas tecnologias e ajudar pessoas a usare
 
 <br/>
 
-## 🚀 Projeto em destaque
+## Projeto em destaque
 
 <div align="center">
 
 ### [Vingadores: Doomsday API](https://github.com/Isabelladolima/vingadores-doomsday-api)
 
 <a href="https://github.com/Isabelladolima/vingadores-doomsday-api">
-  <img src="https://opengraph.githubassets.com/1/Isabelladolima/vingadores-doomsday-api" width="70%" alt="Vingadores: Doomsday API"/>
+  <img src="https://opengraph.githubassets.com/1/Isabelladolima/vingadores-doomsday-api" width="50%" alt="Vingadores: Doomsday API"/>
 </a>
-
-<br/><br/>
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=EC4899)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=EC4899)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=EC4899)
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=EC4899)
 
 </div>
 
-**Status:** 🚧 Em andamento
+**Status:** Em andamento
 
 API REST de portfólio inspirada no filme *"Vingadores: Doomsday"*, com CRUD completo sobre a entidade Filme. Documentação interativa via Swagger UI.
 
@@ -86,46 +79,17 @@ API REST de portfólio inspirada no filme *"Vingadores: Doomsday"*, com CRUD com
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Isabelladolima&show_icons=true&theme=radical&bg_color=0D0D0D&title_color=EC4899&icon_color=EC4899&text_color=E6E6E6&border_color=EC4899" width="49%"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Isabelladolima&layout=compact&theme=radical&bg_color=0D0D0D&title_color=EC4899&text_color=E6E6E6&border_color=EC4899" width="42%"/>
-
-<br/>
-
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Isabelladolima&theme=radical&background=0D0D0D&ring=EC4899&fire=EC4899&currStreakLabel=EC4899" width="70%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Isabelladolima&bg_color=0D0D0D&color=EC4899&line=EC4899&point=FFFFFF&hide_border=true&area=true" width="90%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Isabelladolima&show_icons=true&hide_rank=true&theme=radical&bg_color=FFFFFF&title_color=EC4899&icon_color=EC4899&text_color=333333&border_color=EC4899" width="60%"/>
 
 </div>
 
 <br/>
 
-## 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Isabelladolima&theme=radical&no-frame=true&row=1&column=6&margin-w=12" />
-
-</div>
-
-<br/>
-
-## 🐍 Snake Contribution
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Isabelladolima/Isabelladolima/output/github-contribution-grid-snake.svg" width="90%"/>
-
-</div>
-
-<br/>
-
-## 🌐 Redes sociais
+## Redes sociais
 
 <div align="center">
 
@@ -140,5 +104,5 @@ API REST de portfólio inspirada no filme *"Vingadores: Doomsday"*, com CRUD com
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:EC4899&height=120&section=footer"/>
 
-<sub>Feito com 💗 por Isabella Lima</sub>
+<sub>Feito por Isabella Lima</sub>
 </div>
