@@ -59,7 +59,8 @@ Gosto de resolver problemas, aprender novas tecnologias e ajudar pessoas a usare
 <a href="https://github.com/Isabelladolima/vingadores-doomsday-api">
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Isabelladolima&repo=vingadores-doomsday-api&theme=radical&bg_color=FFFFFF&title_color=EC4899&icon_color=EC4899&text_color=333333&border_color=EC4899" width="50%" alt="Vingadores: Doomsday API"/>
 </a>
-<br/>
+<br>
+
 **Status:** Em andamento
 
 API REST de portfólio inspirada no filme *"Vingadores: Doomsday"*, com CRUD completo sobre a entidade Filme. Documentação interativa via Swagger UI.
