@@ -29,7 +29,7 @@ Gosto de resolver problemas, aprender novas tecnologias e ajudar pessoas a usare
 
 <div align="center">
 
-![Windows Server](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=EC4899)
+![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=EC4899)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=EC4899)
 ![Redes](https://img.shields.io/badge/Redes_de_Computadores-000000?style=for-the-badge&logo=cisco&logoColor=EC4899)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=EC4899)
@@ -39,6 +39,13 @@ Gosto de resolver problemas, aprender novas tecnologias e ajudar pessoas a usare
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=EC4899)
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=EC4899)
 ![Pydantic](https://img.shields.io/badge/Pydantic-000000?style=for-the-badge&logo=pydantic&logoColor=EC4899)
+<br/>
+![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=EC4899)
+![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=EC4899)
+![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=EC4899)
+![Node.js](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=EC4899)
+![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=EC4899)
+![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=EC4899)
 <br/>
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=EC4899)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=EC4899)
@@ -58,6 +65,7 @@ Gosto de resolver problemas, aprender novas tecnologias e ajudar pessoas a usare
 </div>
 
 **Status:** 🚧 Em andamento
+
 API REST de portfólio inspirada no filme *"Vingadores: Doomsday"*, com CRUD completo sobre a entidade Filme. Documentação interativa via Swagger UI.
 
 **Stack:** Python · FastAPI · SQLAlchemy · SQLite · Pydantic
