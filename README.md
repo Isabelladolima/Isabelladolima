@@ -60,7 +60,16 @@ Gosto de resolver problemas, aprender novas tecnologias e ajudar pessoas a usare
 
 ### [Vingadores: Doomsday API](https://github.com/Isabelladolima/vingadores-doomsday-api)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Isabelladolima&repo=vingadores-doomsday-api&theme=radical&bg_color=0D0D0D&title_color=EC4899&icon_color=EC4899&text_color=E6E6E6&border_color=EC4899" />
+<a href="https://github.com/Isabelladolima/vingadores-doomsday-api">
+  <img src="https://opengraph.githubassets.com/1/Isabelladolima/vingadores-doomsday-api" width="70%" alt="Vingadores: Doomsday API"/>
+</a>
+
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=EC4899)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=EC4899)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=EC4899)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=EC4899)
 
 </div>
 
@@ -81,12 +90,12 @@ API REST de portfólio inspirada no filme *"Vingadores: Doomsday"*, com CRUD com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Isabelladolima&show_icons=true&theme=radical&bg_color=0D0D0D&title_color=EC4899&icon_color=EC4899&text_color=E6E6E6&border_color=EC4899" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelladolima&layout=compact&theme=radical&bg_color=0D0D0D&title_color=EC4899&text_color=E6E6E6&border_color=EC4899" width="42%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Isabelladolima&show_icons=true&theme=radical&bg_color=0D0D0D&title_color=EC4899&icon_color=EC4899&text_color=E6E6E6&border_color=EC4899" width="49%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Isabelladolima&layout=compact&theme=radical&bg_color=0D0D0D&title_color=EC4899&text_color=E6E6E6&border_color=EC4899" width="42%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Isabelladolima&theme=dark&hide_border=true&background=0D0D0D&ring=EC4899&fire=EC4899&currStreakLabel=EC4899&sideLabels=EC4899" width="70%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Isabelladolima&theme=radical&background=0D0D0D&ring=EC4899&fire=EC4899&currStreakLabel=EC4899" width="70%"/>
 
 <br/><br/>
 
