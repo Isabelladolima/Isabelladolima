@@ -56,15 +56,9 @@ Gosto de resolver problemas, aprender novas tecnologias e ajudar pessoas a usare
 
 ## Projeto em destaque
 
-<div align="center">
-
-### [Vingadores: Doomsday API](https://github.com/Isabelladolima/vingadores-doomsday-api)
-
 <a href="https://github.com/Isabelladolima/vingadores-doomsday-api">
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Isabelladolima&repo=vingadores-doomsday-api&theme=radical&bg_color=FFFFFF&title_color=EC4899&icon_color=EC4899&text_color=333333&border_color=EC4899" width="50%" alt="Vingadores: Doomsday API"/>
 </a>
-
-</div>
 
 **Status:** Em andamento
 
@@ -81,23 +75,13 @@ API REST de portfólio inspirada no filme *"Vingadores: Doomsday"*, com CRUD com
 
 ## GitHub Stats
 
-<div align="center">
-
 <img src="https://github-readme-stats-fast.vercel.app/api?username=Isabelladolima&show_icons=true&hide_rank=true&theme=radical&bg_color=FFFFFF&title_color=EC4899&icon_color=EC4899&text_color=333333&border_color=EC4899" width="40%"/>
-
-</div>
 
 <br/>
 
 ## Redes sociais
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/isabelladolima/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=EC4899"/>
-</a>
-
-</div>
+![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=EC4899)
 
 <br/>
 
