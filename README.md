@@ -56,28 +56,46 @@ Gosto de resolver problemas, aprender novas tecnologias e ajudar pessoas a usare
 
 ## Projeto em destaque
 
+<div align="center">
+
 <a href="https://github.com/Isabelladolima/vingadores-doomsday-api">
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Isabelladolima&repo=vingadores-doomsday-api&theme=radical&bg_color=FFFFFF&title_color=EC4899&icon_color=EC4899&text_color=333333&border_color=EC4899" width="50%" alt="Vingadores: Doomsday API"/>
 </a>
+
 <br/><br/>
 
-**Status:** Em andamento
+![Status](https://img.shields.io/badge/status-em%20andamento-EC4899?style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-FFFFFF?style=for-the-badge&logo=python&logoColor=EC4899)
+![FastAPI](https://img.shields.io/badge/-FastAPI-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=EC4899)
+![JWT](https://img.shields.io/badge/-JWT-FFFFFF?style=for-the-badge&logo=jsonwebtokens&logoColor=EC4899)
 
-API REST de portfólio inspirada no filme *"Vingadores: Doomsday"*, com CRUD completo, integração com múltiplas APIs externas e autenticação de usuários. Documentação interativa via Swagger UI.
+API REST de portfólio inspirada no filme *"Vingadores: Doomsday"*, com integração a múltiplas APIs externas e autenticação de usuários.
 
-**Stack:** Python · FastAPI · SQLAlchemy · SQLite · Pydantic · JWT
+<br/>
 
-**Concluído:**
-- CRUD completo de Filmes
-- Integração com a API do TMDb — busca de filmes e elenco
-- CRUD de Elenco, com importação automática a partir do TMDb
-- Integração com a API da Comic Vine — busca de personagens e aparições em quadrinhos
-- CRUD de Aparições em quadrinhos, com importação automática
-- Sistema de autenticação: cadastro de usuários, login com JWT e senhas protegidas por hash (bcrypt)
+<details>
+<summary><b>🎯 O que já foi construído</b></summary>
+<br/>
 
-**Próximos passos:**
-- Sistema de teorias da comunidade, com rotas protegidas por autenticação
-- Deploy do projeto (Railway/Render)
+| Módulo | Descrição |
+|---|---|
+| 🎬 Filmes | CRUD completo |
+| 🎭 Elenco | CRUD + importação automática via **TMDb** |
+| 📖 Quadrinhos | CRUD + importação automática via **Comic Vine** |
+| 🔐 Autenticação | Cadastro, login com **JWT** e senhas com hash **bcrypt** |
+
+</details>
+
+<details>
+<summary><b>🚧 Próximos passos</b></summary>
+<br/>
+
+- [ ] Sistema de teorias da comunidade (rotas protegidas)
+- [ ] Deploy (Railway/Render)
+
+</details>
+
+</div>
 
 <br/>
 
@@ -85,8 +103,16 @@ API REST de portfólio inspirada no filme *"Vingadores: Doomsday"*, com CRUD com
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Isabelladolima&show_icons=true&hide_rank=true&theme=radical&bg_color=FFFFFF&title_color=EC4899&icon_color=EC4899&text_color=333333&border_color=EC4899" width="40%"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Isabelladolima&layout=compact&theme=radical&bg_color=FFFFFF&title_color=EC4899&text_color=333333&border_color=EC4899&hide_border=false" width="30%"/>
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Isabelladolima&show_icons=true&hide_rank=true&theme=radical&bg_color=FFFFFF&title_color=EC4899&icon_color=EC4899&text_color=333333&border_color=EC4899&count_private=true" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Isabelladolima&layout=compact&theme=radical&bg_color=FFFFFF&title_color=EC4899&text_color=333333&border_color=EC4899&hide_border=false&langs_count=8" width="100%"/>
+</td>
+</tr>
+</table>
 
 </div>
 
