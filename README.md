@@ -59,7 +59,7 @@ Gosto de resolver problemas, aprender novas tecnologias e ajudar pessoas a usare
 <a href="https://github.com/Isabelladolima/vingadores-doomsday-api">
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Isabelladolima&repo=vingadores-doomsday-api&theme=radical&bg_color=FFFFFF&title_color=EC4899&icon_color=EC4899&text_color=333333&border_color=EC4899" width="50%" alt="Vingadores: Doomsday API"/>
 </a>
-<br>
+<br/><br/>
 
 **Status:** Em andamento
 
@@ -85,7 +85,7 @@ API REST de portfólio inspirada no filme *"Vingadores: Doomsday"*, com CRUD com
 <div align="center">
 
 <a href="https://www.linkedin.com/in/isabelladolima/">
-  <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='150'%20height='40'%3E%3Crect%20width='150'%20height='40'%20rx='8'%20fill='%23ffffff'%20stroke='%23EC4899'%20stroke-width='2'/%3E%3Ctext%20x='75'%20y='25'%20font-family='Arial,%20sans-serif'%20font-size='15'%20font-weight='bold'%20fill='%23EC4899'%20text-anchor='middle'%3ELinkedIn%3C/text%3E%3C/svg%3E" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 
 </div>
