@@ -63,22 +63,32 @@ Gosto de resolver problemas, aprender novas tecnologias e ajudar pessoas a usare
 
 **Status:** Em andamento
 
-API REST de portfólio inspirada no filme *"Vingadores: Doomsday"*, com CRUD completo sobre a entidade Filme. Documentação interativa via Swagger UI.
+API REST de portfólio inspirada no filme *"Vingadores: Doomsday"*, com CRUD completo, integração com múltiplas APIs externas e autenticação de usuários. Documentação interativa via Swagger UI.
 
-**Stack:** Python · FastAPI · SQLAlchemy · SQLite · Pydantic
+**Stack:** Python · FastAPI · SQLAlchemy · SQLite · Pydantic · JWT
+
+**Concluído:**
+- CRUD completo de Filmes
+- Integração com a API do TMDb — busca de filmes e elenco
+- CRUD de Elenco, com importação automática a partir do TMDb
+- Integração com a API da Comic Vine — busca de personagens e aparições em quadrinhos
+- CRUD de Aparições em quadrinhos, com importação automática
+- Sistema de autenticação: cadastro de usuários, login com JWT e senhas protegidas por hash (bcrypt)
 
 **Próximos passos:**
-- Entidade de Elenco (integração com API do TMDb)
-- Aparições históricas do Doutor Destino nos quadrinhos (API da Marvel)
-- Sistema de teorias da comunidade com autenticação de usuários
+- Sistema de teorias da comunidade, com rotas protegidas por autenticação
+- Deploy do projeto (Railway/Render)
 
 <br/>
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Isabelladolima&show_icons=true&hide_rank=true&theme=radical&bg_color=FFFFFF&title_color=EC4899&icon_color=EC4899&text_color=333333&border_color=EC4899" width="40%"/>
+<div align="center">
 
-<br/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Isabelladolima&show_icons=true&hide_rank=true&theme=radical&bg_color=FFFFFF&title_color=EC4899&icon_color=EC4899&text_color=333333&border_color=EC4899" width="40%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Isabelladolima&layout=compact&theme=radical&bg_color=FFFFFF&title_color=EC4899&text_color=333333&border_color=EC4899&hide_border=false" width="30%"/>
+
+</div>
 
 ## Redes sociais
 
