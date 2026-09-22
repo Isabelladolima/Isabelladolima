@@ -29,26 +29,26 @@ Gosto de resolver problemas, aprender novas tecnologias e ajudar pessoas a usare
 
 <div align="center">
 
-![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=EC4899)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=EC4899)
-![Redes](https://img.shields.io/badge/Redes_de_Computadores-000000?style=for-the-badge&logo=cisco&logoColor=EC4899)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=EC4899)
+![Windows](https://img.shields.io/badge/Windows-FFFFFF?style=for-the-badge&logo=windows&logoColor=EC4899)
+![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=EC4899)
+![Redes](https://img.shields.io/badge/Redes_de_Computadores-FFFFFF?style=for-the-badge&logo=cisco&logoColor=EC4899)
+![Bash](https://img.shields.io/badge/Bash-FFFFFF?style=for-the-badge&logo=gnubash&logoColor=EC4899)
 <br/>
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=EC4899)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=EC4899)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=EC4899)
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=EC4899)
-![Pydantic](https://img.shields.io/badge/Pydantic-000000?style=for-the-badge&logo=pydantic&logoColor=EC4899)
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=EC4899)
+![FastAPI](https://img.shields.io/badge/FastAPI-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=EC4899)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FFFFFF?style=for-the-badge&logo=sqlalchemy&logoColor=EC4899)
+![SQLite](https://img.shields.io/badge/SQLite-FFFFFF?style=for-the-badge&logo=sqlite&logoColor=EC4899)
+![Pydantic](https://img.shields.io/badge/Pydantic-FFFFFF?style=for-the-badge&logo=pydantic&logoColor=EC4899)
 <br/>
-![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=EC4899)
-![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=EC4899)
-![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=EC4899)
-![Node.js](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=EC4899)
-![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=EC4899)
-![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=EC4899)
+![HTML5](https://img.shields.io/badge/html5-FFFFFF?style=for-the-badge&logo=html5&logoColor=EC4899)
+![CSS3](https://img.shields.io/badge/css3-FFFFFF?style=for-the-badge&logo=css3&logoColor=EC4899)
+![JavaScript](https://img.shields.io/badge/javascript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=EC4899)
+![Node.js](https://img.shields.io/badge/node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=EC4899)
+![React](https://img.shields.io/badge/react-FFFFFF?style=for-the-badge&logo=react&logoColor=EC4899)
+![MySQL](https://img.shields.io/badge/mysql-FFFFFF?style=for-the-badge&logo=mysql&logoColor=EC4899)
 <br/>
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=EC4899)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=EC4899)
+![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=EC4899)
+![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=EC4899)
 
 </div>
 
@@ -83,7 +83,7 @@ API REST de portfólio inspirada no filme *"Vingadores: Doomsday"*, com CRUD com
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Isabelladolima&show_icons=true&hide_rank=true&theme=radical&bg_color=FFFFFF&title_color=EC4899&icon_color=EC4899&text_color=333333&border_color=EC4899" width="60%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Isabelladolima&show_icons=true&hide_rank=true&theme=radical&bg_color=FFFFFF&title_color=EC4899&icon_color=EC4899&text_color=333333&border_color=EC4899" width="40%"/>
 
 </div>
 
