@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-Técnica em Desenvolvimento de Sistemas com foco em **Suporte Técnico, Help Desk e Infraestrutura de TI**.
+Técnica em Desenvolvimento de Sistemas com foco em **Suporte Técnico, Help Desk, Desenvolvimento e Infraestrutura de TI**.
 Gosto de resolver problemas, aprender novas tecnologias e ajudar pessoas a usarem melhor os recursos digitais.
 
 - **Estagiária de TI — IFAL**
