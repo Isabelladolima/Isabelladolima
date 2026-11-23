@@ -14,18 +14,36 @@
 
 ## Sobre mim
 
-Estudante de **Bacharelado em Ciência da Computação na Uninter** e **Técnica em Desenvolvimento de Sistemas**, com experiência em Suporte Técnico, Help Desk, Desenvolvimento e Infraestrutura de TI. Atualmente, estagio na área de **Marketing**, unindo tecnologia, comunicação e estratégia digital.
+Sou estudante de Ciência da Computação na Uninter e técnica em Desenvolvimento de Sistemas. Minha trajetória em tecnologia começou pelo contato direto com as pessoas: no suporte de TI do IFAL, aprendi a diagnosticar problemas reais, de computadores a redes, e a explicar cada solução de maneira que qualquer usuário pudesse compreendê-la.
 
-Gosto de resolver problemas, aprender novas tecnologias e ajudar pessoas a usarem melhor os recursos digitais.
+Como monitora do Projeto Viva Mais Cidadania Digital, ensinei idosos a utilizar smartphones e aplicativos. Foi uma experiência que me ensinou paciência e clareza ao comunicar assuntos técnicos, habilidades que levo para todas as áreas em que atuo.
 
-- **Graduanda em Ciência da Computação** — Uninter
-  Formação em lógica, algoritmos, estruturas de dados, banco de dados e engenharia de software
+Atualmente, estagio em Marketing, onde aplico o olhar técnico à comunicação e às estratégias digitais. Em paralelo, desenvolvo projetos próprios em Python, como uma API REST com FastAPI, autenticação JWT e integração com serviços externos, para consolidar minha base em desenvolvimento back-end.
 
-- **Estagiária de Marketing**
-  Apoio em ações de comunicação e presença digital · Análise de dados e métricas · Interface entre tecnologia e estratégia de marketing
+Busco atuar na interseção entre tecnologia, desenvolvimento e comunicação.
 
-- **Monitora — Projeto Viva Mais Cidadania Digital**
-  Ensino de tecnologias digitais para idosos · Apoio no uso de smartphones e aplicativos · Desenvolvimento de habilidades de comunicação e didática
+<br/>
+
+## Formação
+
+- **Bacharelado em Ciência da Computação** — Uninter
+  Lógica, algoritmos, estruturas de dados, banco de dados e engenharia de software
+
+- **Técnico em Desenvolvimento de Sistemas**
+  Programação, banco de dados e desenvolvimento web
+
+<br/>
+
+## Experiência
+
+**Estagiária de Marketing - atual cargo**
+Apoio em ações de comunicação e presença digital · Interface entre tecnologia e estratégia de marketing · Gerenciamento de redes sociais · Edição de foto e vídeo 
+
+**Estagiária de TI — IFAL**
+Atendimento e suporte aos usuários · Manutenção de computadores · Instalação e configuração de softwares · Apoio em infraestrutura de TI · Suporte em redes e equipamentos
+
+**Monitora — Projeto Viva Mais Cidadania Digital**
+Ensino de tecnologias digitais para idosos · Apoio no uso de smartphones e aplicativos · Desenvolvimento de habilidades de comunicação e didática
 
 <br/>
 
